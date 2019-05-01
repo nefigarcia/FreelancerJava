@@ -47,7 +47,7 @@ public void mei(){System.out.print("pmeto");}
  int[][]iii={ii};
 char[]cha=new char[4];
 P p=new P();
-p.arr();
+
 
 
 }
